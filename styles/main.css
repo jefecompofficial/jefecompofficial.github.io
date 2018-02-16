@@ -1,0 +1,21 @@
+.obiwan {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+p.title{
+
+    text-decoration: underline;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 4vw;
+    text-align: center;
+}
+
+p.center{
+
+    text-align: center;
+}
